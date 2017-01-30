@@ -1,0 +1,82 @@
+arret prolongé                  cabine en 3
+appel 5M                        utilisateur 1
+allumer bouton 5M
+monter
+signal franchissement palier    cabine en 4
+arret prochain étage
+appel 4D                        utilisateur 2
+allumer bouton 4D               
+signal frachissement palier     cabine en 5
+éteindre bouton 5M
+monter
+appel 7C                        utilisateur 1
+allumer bouton 7C
+appel 4D                        utilisateur 3
+appel 9D                        utilisateur 4
+allumer bouton 9D
+signal franchissement palier    cabine en 6
+arret prochain etage
+signal franchissement palier    cabine en 7
+eteindre bouton 7C
+monter 
+appel 8D                        utilisateur 5
+allumer bouton 8D
+signal franchissement palier    cabine en 8
+arret prochain etage
+signal franchissement palier    cabine en 9
+eteindre bouton 9D
+descendre
+appel 2C                        utilisateur 4
+allumer bouton 2C
+arret prochain etage
+signal franchissement palier    cabine en 8
+eteindre bouton 8D
+descendre
+appel 1C                        utilisateur 5
+allumer bouton 1C
+signal franchissement palier    cabine en 7
+signal franchissement palier    cabine en 6
+signal franchissement palier    cabine en 5
+arret prochain etage
+signal franchissement palier    cabine en 4
+eteindre bouton 4D 
+descendre
+appel 0C                        utilisateur 3  utilisateur 2
+allumer bouton 0C
+signal franchissement palier    cabine en 3
+arret prochain etage
+signal franchissement palier    cabine en 2
+eteindre bouton 2C
+descendre
+arret prochain etage
+signal franchissement palier    cabine en 1
+eteindre bouton 1C
+descendre
+arret prochain etage 
+appel 4M                        utilisateur 6
+allumer bouton 4M
+signal franchissement palier    cabine en 0
+eteindre bouton 0C
+monter
+signal franchissement palier    cabine en 1
+signal franchissement palier    cabine en 2
+signal franchissement palier    cabine en 3
+arret prochain etage
+arret urgence
+eteindre bouton 4M
+fin arret urgence               cabine en 3
+appel 5D                        utilisateur 1
+allumer bouton 5D
+appel 8D                        utilisateur 3
+allumer bouton 8D
+signal franchissement palier    cabine en 4
+appel 2M                        utilisateur 2
+allumer bouton 2M
+signal franchissement palier    cabine en 5
+signal franchissement palier    cabine en 6
+signal franchissement palier    cabine en 7
+arret prochain etage
+signal franchissement palier    cabine en 8
+eteindre bouton 8D                 
+descendre
+appel 1C                        utilisateur 3
